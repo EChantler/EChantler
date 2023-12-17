@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EChantler
-- 👀 I’m interested in health tech
-- 🌱 I’m currently learning Swift
+
 - 📫 You can reach me at thepoopiebadger@gmail.com
 
 <!---
